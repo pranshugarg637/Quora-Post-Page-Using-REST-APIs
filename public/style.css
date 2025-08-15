@@ -1,0 +1,15 @@
+h1{
+    color:maroon;
+}
+.post{
+    height:160px;
+    width:100%;
+    background-color: lightsalmon;
+    margin-bottom: 5px;
+}
+h3{
+    font-style: italic;
+}
+button{
+    margin-left:3px;
+}
