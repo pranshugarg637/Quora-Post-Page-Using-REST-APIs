@@ -1,3 +1,6 @@
+//google pe search kiya matlab get request
+//form submit kiya matlab ki woh request jo uske method mein daali
+//imagine karo ki kya search krne pe kya render hona chahiye
 const express=require("express");
 const port=3000;
 const app=express();
