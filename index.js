@@ -1,5 +1,6 @@
 //google pe search kiya matlab get request
 //form submit kiya matlab ki woh request jo uske method mein daali
+//method oovveride does not override get request so always use post request
 //imagine karo ki kya search krne pe kya render hona chahiye
 const express=require("express");
 const port=3000;
